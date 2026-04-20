@@ -5,4 +5,4 @@
 
 
 
-Ce projet a été fait environ 11h du matin et supprimé à cause d un lien qui ne fonctionnait plus, ce repositorie est pour rectifier ce problème
+Ce projet a été fait environ 12:30h  et supprimé à cause d un lien qui ne fonctionnait plus, ce repositorie est pour rectifier ce problème
